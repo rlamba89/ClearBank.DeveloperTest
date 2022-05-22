@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClearBank.Developer.Domain\ClearBank.DeveloperTest.Domain.csproj" />
+    <ProjectReference Include="..\ClearBank.Developer.Repository\ClearBank.DeveloperTest.Repository.csproj" />
+    <ProjectReference Include="..\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+
+</Project>

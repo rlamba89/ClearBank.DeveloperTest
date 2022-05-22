@@ -1,5 +1,5 @@
 ﻿using ClearBank.DeveloperTest.Domain.Account;
-using ClearBank.DeveloperTest.Domain.Repository;
+using ClearBank.DeveloperTest.Domain.IRepository;
 using ClearBank.DeveloperTest.Services.Dtos;
 using ClearBank.DeveloperTest.Services.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;

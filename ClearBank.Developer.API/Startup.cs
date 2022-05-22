@@ -1,5 +1,5 @@
 using ClearBank.Developer.Repository;
-using ClearBank.DeveloperTest.Domain.Repository;
+using ClearBank.DeveloperTest.Domain.IRepository;
 using ClearBank.DeveloperTest.Services.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;

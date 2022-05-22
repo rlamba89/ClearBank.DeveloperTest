@@ -1,5 +1,5 @@
 ﻿using ClearBank.DeveloperTest.Domain.Account;
-using ClearBank.DeveloperTest.Domain.Repository;
+using ClearBank.DeveloperTest.Domain.IRepository;
 
 namespace ClearBank.Developer.Repository
 {

@@ -1,5 +1,5 @@
 ﻿using ClearBank.DeveloperTest.Domain.Account.Exceptions;
-using ClearBank.DeveloperTest.Domain.Repository;
+using ClearBank.DeveloperTest.Domain.IRepository;
 using ClearBank.DeveloperTest.Services.Dtos;
 
 namespace ClearBank.DeveloperTest.Services.Services

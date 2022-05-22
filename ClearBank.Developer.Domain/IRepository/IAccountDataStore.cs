@@ -1,4 +1,4 @@
-﻿namespace ClearBank.DeveloperTest.Domain.Repository
+﻿namespace ClearBank.DeveloperTest.Domain.IRepository
 {
     public interface IAccountDataStore
     {
